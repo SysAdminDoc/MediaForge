@@ -29,6 +29,13 @@ Dependencies auto-install on first run.
 - Python 3.8+
 - FFmpeg (auto-detected or bundled)
 
+## Related Tools
+
+| Tool | Best For |
+|------|----------|
+| **MediaForge** (this repo) | Converting between formats — audio, video, and image transcoding |
+| [VideoCrush](https://github.com/SysAdminDoc/VideoCrush) | Compressing video files for smaller size — CRF, bitrate, and resolution controls |
+
 ## License
 
 MIT License
